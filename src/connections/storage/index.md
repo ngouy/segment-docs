@@ -10,7 +10,7 @@ Off-the-shelf analytics tools (like Google Analytics and Mixpanel) offer quick a
 Segment offers several [Data Storage Destinations](/docs/connections/storage/catalog/) to help you store your raw Segment data, including:
 
 - [Data Warehouses](/docs/connections/storage/warehouses/) (SQL-based databases, such as Postgres and Redshift)
-- [Amazon S3](/docs/connections/storage/catalog/amazon-s3/)
+- [AWS S3](/docs/connections/storage/catalog/aws-s3/)
 - [Google Cloud Storage](/docs/connections/storage/catalog/google-cloud-storage/)
 - [Segment Data Lakes](/docs/connections/storage/data-lakes/) (available to Business Tier customers only)
 
